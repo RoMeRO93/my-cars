@@ -1,0 +1,15 @@
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\bin\Debug\net6.0\arraytest2.exe
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\bin\Debug\net6.0\arraytest2.deps.json
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\bin\Debug\net6.0\arraytest2.runtimeconfig.json
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\bin\Debug\net6.0\arraytest2.dll
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\obj\Debug\net6.0\arraytest2.csproj.AssemblyReference.cache
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\obj\Debug\net6.0\arraytest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\obj\Debug\net6.0\arraytest2.AssemblyInfoInputs.cache
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\obj\Debug\net6.0\arraytest2.AssemblyInfo.cs
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\obj\Debug\net6.0\arraytest2.csproj.CoreCompileInputs.cache
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\obj\Debug\net6.0\arraytest2.dll
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\obj\Debug\net6.0\refint\arraytest2.dll
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\obj\Debug\net6.0\arraytest2.pdb
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\obj\Debug\net6.0\arraytest2.genruntimeconfig.cache
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\obj\Debug\net6.0\ref\arraytest2.dll
+C:\Users\JohnSmith\source\repos\arraytest2\arraytest2\bin\Debug\net6.0\arraytest2.pdb
